@@ -5,6 +5,7 @@ fieldset{
     margin: auto;
     border-radius: 10px;
     background-color: coral;
+
 }
 
 legend{
@@ -12,4 +13,8 @@ legend{
     padding: 10px;
     border: 1px solid white;
     border-radius: 10px;
+}
+
+.reform{
+    padding-bottom: 50px;
 }
